@@ -1,0 +1,155 @@
+h1 {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    color: #6a240e;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    color: #842a2a;
+}
+
+h3 {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 34px;
+    color: #b85656;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+h4 {
+    font-family: "Roboto";
+}
+
+.title-heading {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    color: #842a2a;
+}
+
+.name-heading {
+    text-align: left;
+}
+
+.award-para {
+    font-family: "Roboto";
+    padding: 10px;
+    font-size: 24px;
+    color: #000000;
+    letter-spacing: 1px;
+}
+
+.award-para-link {
+    padding-bottom: 60px;
+    font-family: "Roboto";
+    font-style: italic;
+    font-size: 40px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-image: url("https://res.cloudinary.com/ksp24/image/upload/v1675516591/5183000_gbubgc.jpg");
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.content {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.top_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 70vh;
+    width: 100vw;
+}
+
+.about_section {
+    margin: 50px 50px;
+    margin-top: 50px;
+}
+
+.about_section {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    color: #842a2a;
+    font-family: "Roboto";
+}
+
+.about_section {
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+}
+
+.biography_section {
+    margin: 50px 70px;
+}
+
+.biography_section {
+    margin-bottom: 30px;
+    font-family: "Roboto";
+}
+
+.biography_section ul {
+    margin-left: 50px;
+}
+
+.biography_section li {
+    margin-bottom: 15px;
+}
+
+.awards {
+    margin: 50px 50px;
+}
+
+.awards {
+    margin-bottom: 30px;
+    font-family: "Roboto";
+}
+
+.awards ul {
+    margin-left: 50px;
+}
+
+.awards li {
+    margin-bottom: 15px;
+}
+
+.a {
+    font-size: 24px;
+    color: #000000;
+    letter-spacing: 1.2px;
+}
+
+footer {
+    text-align: center;
+    font-size: 50px;
+    color: #000000;
+    letter-spacing: 1.2px;
+}
